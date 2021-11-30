@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\OpenGLroot\HelloTriangale\HelloTriangale\Source.cpp(51,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\OpenGLroot\HelloTriangale\HelloTriangale\Source.cpp(51,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\OpenGLroot\HelloTriangale\HelloTriangale\Source.cpp(77,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  HelloTriangale.vcxproj -> C:\Users\User\Desktop\OpenGLroot\HelloTriangale\Debug\HelloTriangale.exe
